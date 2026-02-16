@@ -57,5 +57,5 @@ Simulasi berjalan dalam beberapa generasi dengan jeda waktu antar frame.
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-MInggu-ke-2.git
 cd nama-repository
